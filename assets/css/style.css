@@ -1,0 +1,68 @@
+#dov{
+    display: flex;
+    justify-content: center;
+}
+
+.rodape{
+    position: fixed;
+    bottom: 60px;
+    left: 47%;
+    color: white;
+    background-color: rgb(48, 48, 216);
+    border-radius: 10px;
+    padding: 5px 30px;
+    font-family: arial, sans-serif;
+
+    box-shadow: 0 0 10px
+    rgba(0, 0, 0, 0.2);
+
+ }
+
+.rodape:hover{
+background-color: black;
+}
+
+ a{
+   text-decoration: none;
+   display: flex;
+   justify-content: center;
+ }
+
+ body{
+     background-color: gray;
+ }
+
+#body2{
+    background-color: white;
+}
+ 
+
+ .zap{
+    position: fixed;
+    bottom: 161px;
+    left: 9%;
+    color: white;
+    background-color: gray;
+    border-radius: 0px;
+    padding: 11px 61px;
+    font-family: arial, sans-serif;
+
+    
+ }
+
+ .zap:hover{
+    background-color: rgb(172, 136, 71);
+ }
+
+ .alves{
+     justify-content: center;
+     display: flex;
+     height: 300px;
+
+ }
+
+#imagen2{
+   float: right;
+}
+
+
